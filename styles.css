@@ -1,0 +1,54 @@
+body {
+    background-color: orangered;
+    /* background-color: rgb(252, 252, 252); */
+
+}
+h1 {
+    background-color: black;
+    color: orangered;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border: 1px;
+    border-style: solid;
+    border-color: antiquewhite;
+
+}
+form {
+    background-color: gray;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: monospace;
+    font-size: large;
+    border-style: solid;
+    border-color: antiquewhite;
+    
+}
+#search-text, #riddle-text {
+  background-color: antiquewhite;
+  border: 1px;
+  border-style: groove;
+  border-radius: 1px;  
+  padding-bottom: 30px;
+  padding-top: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+#feedback {
+  
+  color:yellow;
+  font-family: fantasy;
+  font-size: large; 
+} 
+#image {
+    image-rendering: auto;
+    align-content: center;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
